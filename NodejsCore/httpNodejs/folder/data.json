@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "name": "John Doe",
+  "username": "johndoe",
+  "email": "john.doe@example.com",
+  "phone": "+1-202-555-0125",
+  "age": 28,
+  "gender": "male",
+  "address": {
+    "street": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "10001",
+    "country": "USA"
+  },
+  "social": {
+    "twitter": "@john_doe",
+    "instagram": "john_doe_28"
+  },
+  "isActive": true,
+  "registeredAt": "2025-10-25T10:30:00Z"
+}

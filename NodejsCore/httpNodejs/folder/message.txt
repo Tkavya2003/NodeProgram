@@ -1,0 +1,12 @@
+We're launching today a public preview for the new Chrome DevTools 
+Model Context Protocol (MCP) server, bringing the power of Chrome 
+DevTools to AI coding assistants.
+
+Coding agents face a fundamental problem: they are not able to see 
+what the code they generate actually does when it runs in the browser. 
+They're effectively programming with a blindfold on.
+
+The Chrome DevTools MCP server changes this. AI coding assistants are 
+able to debug web pages directly in Chrome, and benefit from DevTools 
+debugging capabilities and performance insights. This improves their 
+accuracy when identifying and fixing issues.
